@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **dhruvinthakkar248@gmail.com**
 
+- 📃 Find my resume: **https://fuchsia-daisie-71.tiiny.site**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dhruvin-thakkar-17548925b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvin thakkar" height="30" width="40" /></a>
